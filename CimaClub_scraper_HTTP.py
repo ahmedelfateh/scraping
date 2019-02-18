@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup as soup
-from getUrlData import simple_get
+from workfiles.getUrlData import simple_get
 
 # testing the HTTP for Humans™ in action
 
